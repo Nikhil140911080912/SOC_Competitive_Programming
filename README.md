@@ -1,7 +1,7 @@
 # SOC_Competitive_Programming
 
 
-Hi! I'm a mentee in the **Summer of Code** program under the Competitive Programming track. This repository contains my notes, solutions, and progress as I build my problem-solving skills week by week.
+Hi! This repo is for **Summer of Code** program under the Competitive Programming track. This repository contains my notes, solutions, and progress as I build my problem-solving skills week by week.
 
 ---
 
